@@ -1,5 +1,5 @@
 // Bump this string when you ship a new version to force a refresh
-const CACHE = 'letters-v1';
+const CACHE = 'letters-v2';
 
 const APP_SHELL = [
   './',
